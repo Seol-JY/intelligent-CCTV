@@ -47,9 +47,7 @@ python v1/Project.py
 <img width="1642" alt="image" src="https://user-images.githubusercontent.com/70826982/209839903-d0317b71-3785-4049-a1c4-bcdc27814920.png">
 
 ## 개요
-관제인력에 구애받지 않고 감시카메라 스스로 인원의 접근을 감지하고 관리자에 통보합니다. 웹페이지를 통해 실시간으로 현장 상황을 감시할 수 있고<br/>
-감시카메라 제어를 위한 다양한 설정이 가능합니다. 메세지 수신 토글 버튼이 켜져 있다면, 인원 감지 시 사진과 함께 LINE 메세지를 전송합니다.<br/>
-Raspberry Pi의 성능상의 한계를 극복하기 위해 client-side에서 Tenserflow.js를 사용해 Object-Detection을 수행합니다.
+관제인력에 구애받지 않고 감시카메라 스스로 인원의 접근을 감지하고 관리자에 통보합니다. 웹페이지를 통해 실시간으로 현장 상황을 감시할 수 있고 감시카메라 제어를 위한 다양한 설정이 가능합니다. 메세지 수신 토글 버튼이 켜져 있다면, 인원 감지 시 사진과 함께 LINE 메세지를 전송합니다. Raspberry Pi의 성능상의 한계를 극복하기 위해 client-side에서 Tenserflow.js를 사용해 Object-Detection을 수행합니다.
 <p align="center"><img width="700" alt="스크린샷 2022-12-29 오전 1 26 28" src="https://user-images.githubusercontent.com/70826982/209842711-c0c37c45-9c40-4945-a4a6-e553961a9084.png"></p>
 
 
