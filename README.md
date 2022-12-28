@@ -52,7 +52,7 @@ python v1/Project.py
 
 
 **사용 방법**  
-필요 모듈이 설치되었고, 회로 구성이 일치해야 동작합니다.  
+필요 모듈이 설치되었고, 회로 구성이 일치해야 동작합니다. pigpio 데몬이 실행되어 있어야 합니다.
 
 ```bash
 git clone https://github.com/Seol-JY/intelligent-CCTV.git
